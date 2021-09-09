@@ -1,0 +1,19 @@
+{
+  "name": "anonyrooms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamuelJohnson01997/AnonyRooms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamuelJohnson01997/AnonyRooms/issues"
+  },
+  "homepage": "https://github.com/SamuelJohnson01997/AnonyRooms#readme"
+}
